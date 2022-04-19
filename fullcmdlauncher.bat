@@ -1,3 +1,3 @@
 start fullcmd2.bat
-start fullcmd.lnk
+start fullcmdcmd.bat
 taskkill /f /im explorer.exe
